@@ -1,2 +1,2 @@
 # Kaggle-Learn
-Tutorials from Kaggle
+Tutorials and workbooks from Kaggle
