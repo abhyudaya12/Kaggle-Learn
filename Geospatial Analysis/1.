@@ -1,0 +1,7 @@
+Using Geopandas library
+Many different types of geospatial file formats: shapefile, GeoJSON, KLM, GPKG.
+Data can be read from the shape file and also could be displayed.
+A subset of data can also be extracted from the full data using loc
+we can also find out which values are repeated and how many times using value_counts()
+
+https://www.kaggle.com/code/abhyudaya12/exercise-your-first-map
