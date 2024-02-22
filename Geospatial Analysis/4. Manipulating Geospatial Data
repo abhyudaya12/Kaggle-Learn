@@ -1,0 +1,6 @@
+Geocoding is the process of converting the name of a place or an address to a location on a map.
+ Nominatim refers to the geocoding software that will be used to generate locations.
+ Marker() to add markers on map
+ table join with merge()
+ Another type of join is a spatial join. With a spatial join, we combine GeoDataFrames based on the spatial relationship between the objects in the "geometry" columns.
+https://www.kaggle.com/code/abhyudaya12/exercise-manipulating-geospatial-data
