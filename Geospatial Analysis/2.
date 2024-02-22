@@ -1,0 +1,7 @@
+Many types of projections.
+We use a coordinate reference system (CRS) to show how the projected points correspond to real locations on Earth.
+We can findout CRS from a GeoDataFrame.
+While converting dataframe to geodataframe we need to assign a crs to the geodataframe after conversion.
+We can re-project which means we can change the crs using to_crs().
+The Geodataframe has geometry column by which we could calculate Area too if the type is polygon.
+https://www.kaggle.com/code/abhyudaya12/exercise-coordinate-reference-systems
