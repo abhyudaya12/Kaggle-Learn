@@ -1,1 +1,7 @@
-
+Can create a map in many different styles using folium package.
+These maps are interactive: that means that we can move them and interact with them like zoom in, viewing markers etc.
+Can add markers to map using folium.Marker
+Can add markers to clusters so as to declutter the map.
+We can add Bubble maps using folium.Circle() for adding circles with different colors to the map instead of markers.
+We can add heatmaps to show the density of the crimes using intensity and color. folium.plugins.HeatMap()
+https://www.kaggle.com/code/abhyudaya12/exercise-interactive-maps
