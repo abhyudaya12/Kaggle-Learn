@@ -4,6 +4,8 @@ Proximity analysis:
 
 Measuring distance:
   Make sure that they use the same coordinate reference system (CRS).
-  geometry.distance can be used to find the distance.
+  geometry.distance can be used to find the distance.|
+
+https://www.kaggle.com/code/abhyudaya12/exercise-proximity-analysis
 
 
