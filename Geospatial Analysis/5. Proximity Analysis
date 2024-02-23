@@ -1,1 +1,9 @@
+Proximity analysis:
+  Measure the distance between points on a map.
+  Select all points within some radius of a feature.
+
+Measuring distance:
+  Make sure that they use the same coordinate reference system (CRS).
+  geometry.distance can be used to find the distance.
+
 
